@@ -1,6 +1,6 @@
 # 12 Cat Breeds
 
-This project, comprised of several stages, has enabled me to develop and showcase essential skills essential for pursuing a career in Cloud.
+This project, comprised of several stages, has helped me develop and showcase essential skills essential for pursuing a career in Cloud.
 
 ## Architecture
 
